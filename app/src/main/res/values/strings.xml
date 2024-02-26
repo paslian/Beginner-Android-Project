@@ -1,0 +1,214 @@
+<resources>
+    <string name="app_name">mobile legends information</string>
+    <string name="heroes_name">Nama Hero</string>
+    <string name="heroes_role">Role Hero</string>
+    <string name="description">Deskripsi Hero</string>
+    <string name="welcome">Welcome Gamers</string>
+    <string name="info_app">Please select and press to find out the details of the hero</string>
+    <string name="about">About Me</string>
+    <string name="study">Study at: </string>
+    <string name="owner">Paslian Sahat Rafael</string>
+    <string name="gmail">paslianp5@gmail.com</string>
+    <string name="title_table_detail">information details</string>
+    <string name="skin">Hero Skins</string>
+    <string name="story">Hero Story</string>
+    <string name="release_date">Release Date</string>
+    <string name="content_release_date">Content Release Date</string>
+    <string name="specialist">Specialist</string>
+    <string name="content_specialist">Content Specialist</string>
+    <string name="lane">Lane</string>
+    <string name="content_lane">Content Lane</string>
+    <string name="spell">Spell Recommendation</string>
+    <string name="content_spell">Content spell</string>
+    <string name="read_detail">read detail >></string>
+    <string name="title_read_detail">Read Detail</string>
+    <string name="price">Price</string>
+    <string name="content_price">Content Price</string>
+    <string name="content_role">Content Role</string>
+    <string name="item_recomendations">Item Recommendations</string>
+    <string name="share">Share into your Friend</string>
+
+    <string-array name="data_photo">
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Nana_%28Sweet_Leonin%29.jpg/revision/latest/scale-to-width-down/1000?cb=20180602112431</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/a/af/Alucard_%28Demon_Hunter%29.png/revision/latest?cb=20230117092128</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Fanny_%28Blade_Dancer%29.jpg/revision/latest/scale-to-width-down/1000?cb=20220206153547</item>
+        <item>https://www.indoesports.com/storage/media/lg/gatotkaca.jpg</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Bruno_%28Mech_Protector%29.jpg/revision/latest/scale-to-width-down/1000?cb=20200816040403</item>
+        <item>https://assets.skor.id/crop/0x0:0x0/x/photo/2021/07/15/2164141579.jpg</item>
+        <item>https://oneesports.blob.core.windows.net/cdn-data/sites/2/2021/04/Cyclops-2.jpg</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/4/46/Lesley_%28Deadly_Sniper%29.jpg/revision/latest/scale-to-width-down/1000?cb=20221022092026</item>
+        <item>https://cdn.vcgamers.com/news/wp-content/uploads/2022/02/Minotaur-MLBB.jpg</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/9/92/Ocean_Gladiator_wall.jpg/revision/latest/scale-to-width-down/1000?cb=20200528124541</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Johnson_%28Mustang%29.jpg/revision/latest/scale-to-width-down/1000?cb=20220921093945</item>
+    </string-array>
+
+    <string-array name="data_name">
+        <item>Nana</item>
+        <item>Alucard</item>
+        <item>Fanny</item>
+        <item>Gatotkaca</item>
+        <item>Bruno</item>
+        <item>Kadita</item>
+        <item>Cyclops</item>
+        <item>Lesley</item>
+        <item>Minotaur</item>
+        <item>Atlas</item>
+        <item>Johnson</item>
+    </string-array>
+
+    <string-array name="data_spell_recommendation">
+        <item>: Flameshot</item>
+        <item>: Retribution</item>
+        <item>: Retribution</item>
+        <item>: Vangance</item>
+        <item>: Inspire</item>
+        <item>: Petrify</item>
+        <item>: Flicker</item>
+        <item>: Flicker</item>
+        <item>: Flicker</item>
+        <item>: Flicker</item>
+        <item>: Flicker</item>
+    </string-array>
+
+    <string-array name="img_skin_1">
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/2/20/Nana_%28Mecha_Baby%29.jpg/revision/latest/scale-to-width-down/1000?cb=20200423035541</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Alucard_%28Lightborn_-_Striker%29.jpg/revision/latest/scale-to-width-down/1000?cb=20220920085008</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/5/58/Fanny_%28Blade_of_Kibou%29.jpg/revision/latest/scale-to-width-down/1000?cb=20220214153705</item>
+        <item>https://media-assets-ggwp.s3.ap-southeast-1.amazonaws.com/2023/05/Skin-Gatotkaca-Mobile-Legends-5.jpg</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/5/51/Bruno_%28Vanguard_Elite%29.png/revision/latest/scale-to-width-down/1000?cb=20180612072100</item>
+        <item>https://cdn.oneesports.id/cdn-data/sites/2/2023/06/Mobile-Legends_Kadita.jpg</item>
+        <item>https://gamefinity.id/wp-content/uploads/2022/01/Skin-Cyclops-SeaRescuer.jpg</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Lesley_%28Hawk-eyed_Sniper%29.jpg/revision/latest/scale-to-width-down/1000?cb=20221111142422</item>
+        <item>https://gamefinity.id/wp-content/uploads/2021/10/Mobile-Legends-Minotaur.jpg</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/2/24/Atlas_%28Rune_Sentinel%29.jpg/revision/latest/scale-to-width-down/1000?cb=20230824125454</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/6/68/Johnson_%28Optimus_Prime%29.jpg/revision/latest/scale-to-width-down/1000?cb=20211214152518</item>
+    </string-array>
+
+    <string-array name="img_skin_2">
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Nana_%28Sundress%29.jpg/revision/latest/scale-to-width-down/1000?cb=20200721082600</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Alucard_%28Viscount%29.jpg/revision/latest/scale-to-width-down/1000?cb=20230201105535</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/b/b2/Fanny_%28Skylark%29.jpg/revision/latest/scale-to-width-down/1000?cb=20211010124153</item>
+        <item>https://gamedaim.com/wp-content/uploads/2021/08/4-Daftar-Skin-Gatotkaca-Mobile-Legends-Terbaik-Saat-Ini.jpg</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Bruno_%28Street_Football%29.jpg/revision/latest?cb=20201119070651</item>
+        <item>https://gamedaim.com/wp-content/uploads/2022/02/Kadita-ML-800x450.jpg</item>
+        <item>https://dailyspin.id/wp-content/uploads/2023/04/image-128-1.jpg</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/6/63/Lesley_%28Angelic_Agent%29.jpg/revision/latest/scale-to-width-down/1000?cb=20200531065437</item>
+        <item>https://gamedaim.com/wp-content/uploads/2022/01/Minotaur.jpg</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Atlas_%28Space_Mech%29.png/revision/latest/scale-to-width-down/1000?cb=20220908203813</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Johnson_%28S.A.B.E.R._Automata%29.jpg/revision/latest/scale-to-width-down/1000?cb=20220921093901</item>
+    </string-array>
+
+    <string-array name="img_skin_3">
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Nana_%28Slumber_Party%29.jpg/revision/latest/scale-to-width-down/1000?cb=20190711022230</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Alucard_%28Obsidian_Blade%29.jpg/revision/latest/scale-to-width-down/1000?cb=20230201105529</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/7/75/Fanny_%28Lightborn_-_Ranger%29.jpg/revision/latest?cb=20211010124546</item>
+        <item>https://media-assets-ggwp.s3.ap-southeast-1.amazonaws.com/2023/05/Skin-Gatotkaca-Mobile-Legends-1.jpg</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Bruno_%28Halo_Striker%29.jpg/revision/latest/scale-to-width-down/1000?cb=20221111142411</item>
+        <item>https://img.esportsku.com/wp-content/uploads//2023/07/kadita-mpl.jpg</item>
+        <item>https://d1x91p7vw3vuq8.cloudfront.net/itemku-upload/20211229/e8dbj3ozy5nh0zdkd1002n.jpg</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Lesley_%28Cheergunner%29.jpg/revision/latest/scale-to-width-down/1000?cb=20210520070016</item>
+        <item>https://dailyspin.id/wp-content/uploads/2021/01/minotaur-busting-yama-skin-mobile-legends.jpg</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Fuel_Turbine_wall.jpg/revision/latest/scale-to-width-down/1000?cb=20200907091800</item>
+        <item>https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Johnson_%28Jeepney_Racer%29.jpg/revision/latest/scale-to-width-down/1000?cb=20181031101759</item>
+    </string-array>
+
+    <string-array name="data_lane">
+        <item>: Mid</item>
+        <item>: Jungle</item>
+        <item>: Jungle</item>
+        <item>: EXP</item>
+        <item>: Gold</item>
+        <item>: Mid</item>
+        <item>: Mid</item>
+        <item>: Gold</item>
+        <item>: Roamer</item>
+        <item>: Roamer</item>
+        <item>: Roamer</item>
+    </string-array>
+
+    <string-array name="data_price">
+        <item>: 6.500</item>
+        <item>: 15.000</item>
+        <item>: 24.000</item>
+        <item>: 32.000</item>
+        <item>: 15.000</item>
+        <item>: 32.000</item>
+        <item>: 15.000</item>
+        <item>: 32.000</item>
+        <item>: 15.000</item>
+        <item>: 32.000</item>
+        <item>: 32.000</item>
+    </string-array>
+
+    <string-array name="data_release">
+        <item>: 2016</item>
+        <item>: 2016</item>
+        <item>: 2016</item>
+        <item>: 2017</item>
+        <item>: 2016</item>
+        <item>: 2018</item>
+        <item>: 2017</item>
+        <item>: 2018</item>
+        <item>: 2016</item>
+        <item>: 2020</item>
+        <item>: 2017</item>
+    </string-array>
+
+    <string-array name="data_specialist">
+        <item>: Poke | Burst</item>
+        <item>: Chase | Damage</item>
+        <item>: Chase | Finisher</item>
+        <item>: Crowd Control | Burst</item>
+        <item>: Finisher | Burst</item>
+        <item>: Burst | Charge</item>
+        <item>: Poke | Control</item>
+        <item>: Finisher | Burst</item>
+        <item>: Crowd Control</item>
+        <item>: Crowd Control | Initiator </item>
+        <item>: Support | Crowd Control</item>
+    </string-array>
+
+    <string-array name="data_role">
+        <item>: Mage</item>
+        <item>: Fighter/Assasin</item>
+        <item>: Assasin</item>
+        <item>: Tank</item>
+        <item>: Marksman</item>
+        <item>: Mage</item>
+        <item>: Mage</item>
+        <item>: Marksman</item>
+        <item>: Tank</item>
+        <item>: Tank</item>
+        <item>: Tank</item>
+    </string-array>
+
+
+    <string-array name="data_description">
+        <item>Nana, Sweet Leonin, is a hero in Mobile Legends: Bang Bang. In order to have the means of controlling the magic in her body and stop causing trouble, Nana went to the Shadow Swamp in search of a magical fruit with her good friend Molina. But when danger came, Molina died protecting Nana. Although Nana got what she wanted, she also lost her friend. With the strength that Molina left her, Nana embarked on a new journey. </item>
+        <item> Alucard was a comrade-in-arms of Tigreal who disappeared in a battle with the Demons. Therefore, he hated darkness, joined the Monastery of Light, and swore to destroy all Demons. But later he learned the hidden secrets of this battle, so he left the Monastery of Light in anger and fought the darkness in his own way. </item>
+        <item> Fanny is the younger sister of Tigreal, who grew up under the protection of her family and her elder brother since she was a child. But Tigreal took the blame for a mistake in battle and left home. Disregarding obstructions from her family, Fanny joined the army, and through her own designed weapons, she successfully completed one task after another, becoming an outstanding fighter who can take care of herself.</item>
+        <item> The son of Bima and Arimbi from the Arcadhem Universe. When he was a child, he became a champion of the gods, fighting against enemies in his hometown.</item>
+        <item> Born into poverty, Bruno lost his legs in an accident, after which Eruditio created a pair of artificial legs for him. In gratitude to the City of Scholars, Bruno vowed to guard the city for the rest of his life.</item>
+        <item> A princess of a certain island country in the Vonetis Islands. She was victimized by political enemies and lost her beauty and power. When she threw herself into the sea in despair, an Elf in the sea rescued her. After that, she regained her beauty and turned into the form of a mermaid. With the help of the Elves, she became the Queen of the Southern Seas who all sailors fear.</item>
+        <item> A mysterious celestial traveler who came to the Land of Dawn thousands of years ago and came to know many mysteries about the creation of the Land of Dawn and the Endless War. He will always bring revelations to mankind at critical moments.</item>
+        <item> After the death of her father, she was adopted by House Vance and became Harley sister. Lesley regarded her younger brother as everything to her, and kept protecting Harley secretly.</item>
+        <item> In olden times, there was once a state named Minoa in Agelta Drylands. The prince of the state, Minotaur, fatally injured his father in a fit of rage, after which he exiled himself to the Minoan Labyrinth in shame and regret. When he stepped out of the Labyrinth again, he found his state had long perished, his kin long gone. With his teeth set, Minotaur embarked on the path to restoring his homeland to its former glory...</item>
+        <item> Atlas is one of the ancient Abysmal Sea creatures, sealed in the deep sea by the Ancient Ones. Atlas found the Mecha built by the Iceland Golems in the Abysmal Sea in the past. By integrating with the Mecha, Atlas escaped the Abysmal Sea and came to the seas around the world to absorb knowledge. It looks forward to the day when it is able to break the prohibition, so that its own kind can be free.</item>
+        <item> Johnson was once an athlete. He survived a serious car accident and found himself merged with the "super vehicle." Now, he is a man with the body of a "super vehicle."</item>
+    </string-array>
+
+    <string-array name="data_item_recommendation">
+        <item>https://upoint.id/images/news/1618817168buildnana.png</item>
+        <item>https://upoint.id/images/news/1617200181buildalucard.png</item>
+        <item>https://upoint.id/images/news/311220074121sakit-banget-berikut-ini-build-fanny-tersakit-di-mobile-legends.png</item>
+        <item>https://upoint.id/images/news/1620043253banner.png</item>
+        <item>https://static.upoint.id/images/news/1638332415buildbrunomin.jpg</item>
+        <item>https://upoint.id/images/news/1620043471buildkadita1.png</item>
+        <item>https://upoint.id/images/news/1620283118buildcyclopsmin.png</item>
+        <item>https://upoint.id/images/news/1619594274buildlesley.png</item>
+        <item>https://static.upoint.id/images/news/1637565793susuananbuildminotaurmin1.jpg</item>
+        <item>https://upoint.id/images/news/1612078276buildatlas.png</item>
+        <item>https://static.upoint.id/images/news/1627644628untitled1.jpg</item>
+    </string-array>
+
+</resources>
